@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Py101
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Learn Python at your own pace.
 
-## Commands
+## Getting Started
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+  - [Set Up](getting_started/setup.md)
 
-## Project layout
+## Basics
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+  - [Variables](basics/variables.md)
