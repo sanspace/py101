@@ -1,10 +1,17 @@
 site_name: Python 101
 site_description: San's Python Tutorial
 site_url: https://sanspace.in/py101
-repo_name: sansapce/py101
-repo_url: https://github.com/sansapce/py101
+repo_name: sanspace/py101
+repo_url: https://github.com/sanspace/py101
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2023 - 2024 Santhosh Kumar Srinivasan
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Set Up: getting_started/setup.md
+  - Basics:
+    - Variables: basics/variables.md
 
 theme:
   name: material
